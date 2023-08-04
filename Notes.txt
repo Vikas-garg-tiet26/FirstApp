@@ -1,0 +1,20 @@
+// VAriables in Flutter:-
+
+    int days = 30;
+    String name = "Acm Project Collab App";
+    bool isMAle = true;
+    double pi = 3.14;
+    num temperature = 3.05;    // num can take both int and float
+
+// declaring a common variable:=
+
+    var day = 5;            // var is used to declare any data type
+    const lobby = 2;       //const is applied so that its value doesn't change.
+    final lobby1 = 56;    //final and const are just same , the only diff is that final can be modified
+  
+
+// Scaffold is used instead of Material because it contains :-
+  1.appbar(head)
+  2.body
+  3.Drawer(footer);
+  
