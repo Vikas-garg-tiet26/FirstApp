@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
         //  Themes in App
         themeMode: ThemeMode.light, // makes ui of app dark;
         theme: ThemeData(
-          primarySwatch: Colors.green,
+          primarySwatch: Colors.indigo,
         ),
         darkTheme: ThemeData(
           brightness: Brightness.dark,

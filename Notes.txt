@@ -48,3 +48,9 @@
 
 // class mein first charcter is big and also paramerter inside class is also same.
 // function mein character chota hota hai.
+
+
+// har widget agar apneandar ekk aur widget use kar paye toh hum usse child se repreesnent karte hai 
+
+// agar woh apne andar bht saari widgets carry kar sakta hai toh usse children se represent karte hai.
+
