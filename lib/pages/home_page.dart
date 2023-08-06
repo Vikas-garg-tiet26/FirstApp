@@ -7,11 +7,11 @@ class Homepage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Project Collaboration App"),
+        title: const Text("Project Collaboration App"),
       ),
       body: Center(
         child: Container(
-          child: Text("Welcome to My New App "),
+          child: const Text("Welcome to My New App "),
         ), // return const Placeholder();
       ),
     );

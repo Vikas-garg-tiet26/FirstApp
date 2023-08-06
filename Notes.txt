@@ -17,4 +17,34 @@
   1.appbar(head)
   2.body
   3.Drawer(footer);
-  
+
+// Widget:-
+  Flutetr ke andar har ekk cheez widget hai.
+  Widget is a component of return type of build. just like int,string,void etc;
+
+// Build is a function which is overwritten by us.
+// Build COntext:-
+    it is method/parameter ;
+    eg:-BRing VEgetables:-
+    s1:- Take Cycle,
+    s2:- Go to market,
+    s3:- Come Back, ; 
+
+// Themes :-
+    Like homePAge there are more widgets like theme,
+    in it we can change the theme of app as well as turn dark/light theme.
+
+    themeMode: themeMode.dark; // makes ui of app dark;
+    theme: ThemeData(
+        primary Color: Colors.green ,   //just change sthe theme to green
+        primarySwatch: Colors.green , //adjusts the ui of whole app according to green.
+    )
+
+// Routes :-
+   Routes are raste , means screen openings .
+   Route is a type of Map ;
+   HAshMap has a key and value ;
+   "/" is  a by default Route;
+
+// class mein first charcter is big and also paramerter inside class is also same.
+// function mein character chota hota hai.
