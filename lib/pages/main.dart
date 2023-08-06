@@ -23,8 +23,8 @@ class MyApp extends StatelessWidget {
           brightness: Brightness.dark,
         ),
         routes: {
-          "/": (context) => Homepage(),
-          "/login": (context) => Login_page(),
+          "/": (context) => Login_page(),
+          "/login": (context) => Homepage(),
           // "/signup": (context) => Sign_page(),
         });
   }
