@@ -54,3 +54,12 @@
 
 // agar woh apne andar bht saari widgets carry kar sakta hai toh usse children se represent karte hai.
 
+//StatelessWidget 
+screen ke andar kuch change nhi hota but puri screen hi chNGE HO Jati hai.
+
+
+// StatefullWidget
+screen change naa ho but uske andar ka content change hota rahe
+
+// _ (underscore) ka matalb hota hai kisi bhi cheez ko private rakhna dart ke andar
+
